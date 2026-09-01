@@ -1,4 +1,6 @@
-package com.civicai;
+package com.civicai.repository;
+
+import com.civicai.Complaint;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
