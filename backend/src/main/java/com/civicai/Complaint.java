@@ -1,4 +1,4 @@
-package com.civicai;
+package com.civicai.service;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
