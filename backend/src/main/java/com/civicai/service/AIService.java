@@ -1,4 +1,4 @@
-package com.civicai;
+package com.civicai.service;
 
 import org.springframework.stereotype.Service;
 
