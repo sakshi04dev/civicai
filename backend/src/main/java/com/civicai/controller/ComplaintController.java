@@ -1,4 +1,8 @@
-package com.civicai;
+package com.civicai.controller;
+
+import com.civicai.Complaint;
+import com.civicai.repository.ComplaintRepository;
+import com.civicai.service.AIService;
 
 import org.springframework.web.bind.annotation.*;
 
